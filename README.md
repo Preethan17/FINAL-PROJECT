@@ -1,7 +1,7 @@
 # FINAL-PROJECT
 SMART-INTERNZ-APPLIED DATA SCIENCE
 
-
+The final repository containing links of all the assignments done during the Externship as well as the Project! Kindly find the links of all the attached github repos.
 
 DIGITAL ASSESSMENTS<br>
 ->[DA-1](https://github.com/Preethan17/DA-1)<br>
